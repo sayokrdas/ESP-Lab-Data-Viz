@@ -12,7 +12,9 @@ Required Libraries:
 -------------------
 
 numpy
+
 matplotlib
+
 mplcursors
 
 All required libraries can be pip installed.
