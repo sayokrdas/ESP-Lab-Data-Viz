@@ -4,7 +4,7 @@ This repository holds the progress for the Data Viz project. This includes devel
 
 DTW pseudo code.py - pseudo code of SpringDTW
 
-main.py - Main scripts that calls dtw class for visualization
+main.py - Main scripts that calls dtw class for visualization. Run this file in order to see the tools.
 
 DTW.py/DTW_Vis - Class that implements SpringDTW and outputs hover capabilities and accesses Select_Map for SpringDTW
 
